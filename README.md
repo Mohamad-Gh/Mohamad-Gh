@@ -1,4 +1,4 @@
-## Hi there [👋](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif),
+## Hi there [👋], This is Mohamad Ghalebizade
 
 <!--
 **Mohamad-Gh/Mohamad-Gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
