@@ -3,8 +3,6 @@
 <!--
 **Mohamad-Gh/Mohamad-Gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🚀 driven by coding 💻, innovation💡, and solving complex challenges. <br>Thrive on exploring emerging technologies (AI/ML 🤖, blockchain 🔗, cloud ☁️) to build scalable solutions 📈. <br>Committed to lifelong learning 📚 and shaping the future of tech across industries.<br>Let’s connect 🤝 to transform ideas into impactful, cutting-edge solutions—one line of code at a time. ✨.<br>🔭 I’m currently working on FullStack Apps<br>
 
