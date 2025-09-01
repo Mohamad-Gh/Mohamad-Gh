@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Wave GIF" style="width: 200px; height: auto;"/>, This is Mohamad Ghalebizade
+## Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Wave GIF" style="width: 50px; height: auto;"/>, This is Mohamad Ghalebizade
 
 <!--
 **Mohamad-Gh/Mohamad-Gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
